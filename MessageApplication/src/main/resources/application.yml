@@ -1,0 +1,4 @@
+management.endpoints.web.exposure.include: '*'
+server.port: 8030
+spring.profiles.active: dev
+default.messages: Hola.Este es un mensaje por defecto
